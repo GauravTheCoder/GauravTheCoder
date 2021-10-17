@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GauravTheCoder
+- 👋 Hi, I’m Gaurav Sharma from India.
 - 👀 I’m interested in software development, artificial intelligence, and machine learning.
 - 🌱 I’m currently a university student studying Information Technology and am working with data structures and algorithms and preparing for a job interview for a software engineering role.
 - 💞️ I’m looking to collaborate on development-related projects in python and C++.
