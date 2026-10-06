@@ -16,7 +16,7 @@ Backend and data engineer with 3 years at HSBC and internships at Macquarie Grou
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cbgs27-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/cbgs27)
-[![Email](https://img.shields.io/badge/Email-Gmail-D14836?logo=gmail&logoColor=white)](mailto:coolboygauravsharma27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-D14836?logo=gmail&logoColor=white)](mailto:dbgs27@gmail.com)
 
 
 <!---
