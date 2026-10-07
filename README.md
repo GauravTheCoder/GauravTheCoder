@@ -11,7 +11,7 @@ Backend and data engineer with 3 years at HSBC and internships at Macquarie Grou
 - **Languages & Frameworks:** Python, FastAPI, Django/DRF, Go, C++, VBA
 - **Data Engineering:** PySpark, Pandas, NumPy, pipeline automation
 - **Infrastructure:** PostgreSQL, Redis, Docker, Prometheus, Grafana, OpenTelemetry
-- **Tools:** Prompt Engineering, Claude Code, GitHub Copilot, API Design & Optimization
+- **Skills and Tools:** Context Engineering, Claude Code, GitHub Copilot, API Design & Optimization
 
 ## 📫 Connect
 
